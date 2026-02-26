@@ -102,6 +102,6 @@ Phone
 +92 348 9024815
 
 Email  
-noorullah178632@gmail.com
+nooullah178632@gmail.com
 
 Portfolio  

@@ -1,65 +1,107 @@
 # Noor Ullah
 
-## Flutter Developer | Android Developer | Computer Science Student
+## Flutter Developer | Full Stack Flutter Developer | Computer Science Student
 
 ---
 
-## About Me
+## Professional Summary
 
-I am a Flutter and Android developer with a strong interest in building modern, scalable, and user-friendly applications. As a Computer Science student, I continuously improve my technical skills by developing practical projects and exploring new technologies.
+Flutter Developer with hands-on experience in building cross-platform mobile applications using Flutter and Dart. Skilled in Firebase integration, REST APIs, and modern state management solutions (Provider, Riverpod). Focused on developing clean, scalable, high-performance, and user-centric applications.
+
+---
+
+## Professional Experience
+
+**Full Stack Flutter Developer (Intern)**  
+Encova Solutions Pvt Ltd | Jan 2026 – Present
+
+- Actively involved in building modern, responsive, and high-performance mobile applications  
+- Developed multiple frontend projects with strong emphasis on clean UI and efficient state management  
+- Focused on performance optimization and user-centric design principles  
+
+**Frontend Flutter Developer (Freelance)**  
+May 2025 – Present
+
+- Designed and developed responsive mobile applications for clients  
+- Delivered modern UI solutions prioritizing usability and performance  
+- Maintained clear communication to translate client requirements into effective solutions  
 
 ---
 
 ## Technical Skills
 
-- Flutter  
-- Dart  
-- Firebase  
-- Provider  
-- Riverpod  
-- UI Design  
-- Git & GitHub  
-- Google Maps Integration  
-- REST APIs  
-- Cloudinary  
+**Framework**  
+Flutter
 
----
+**Programming Languages**  
+Dart, C++
 
-## Current Focus
+**State Management**  
+Provider, Riverpod
 
-I am currently working on and improving projects such as:
+**Backend & Integrations**  
+Firebase (Authentication, Firestore Database, Notifications)  
+REST APIs  
+Google Maps Integration  
+Cloudinary
 
-- E-commerce Applications  
-- Chat Applications  
-- Amdad Services  
-- Weather Applications  
-- Additional experimental and learning projects  
+**Testing**  
+Unit Testing  
+Widget Testing
 
----
+**Architecture & Design Patterns**  
+MVVM  
+MVC
 
-## Tools & Environment
-
-- VS Code  
-- Git  
-- GitHub  
-- Windows Development Environment  
+**Tools & Version Control**  
+Git  
+GitHub  
+VS Code  
+Postman
 
 ---
 
 ## Projects
 
-You can explore my work here:
+**Chat Application**
 
-GitHub Profile:  
+- Developed a real-time chat application using Flutter and Firebase  
+- Implemented Firebase Authentication for secure login  
+- Integrated Firestore for real-time message storage and retrieval  
+- Focused on responsive UI and smooth cross-device communication  
+
+**Service Booking Application**
+
+- Built a Flutter-based service booking system  
+- Enabled browsing of services and schedule management  
+- Integrated Firebase for authentication and real-time database operations  
+- Designed for efficiency, usability, and performance  
+
+**eCommerce Mobile Application**
+
+- Developed a scalable eCommerce application using Flutter  
+- Integrated Firebase and REST APIs  
+- Implemented secure authentication and Firestore database  
+- Focused on performance, clean UI, and seamless user interaction  
+
+---
+
+## GitHub & Professional Links
+
+GitHub  
 https://github.com/Noorullah178632
+
+LinkedIn  
+https://www.linkedin.com/in/noorullah11/
 
 ---
 
 ## Contact Information
 
-Phone: 03489024815  
-Email: nooullah178632@gmail.com  
-LinkedIn: www.linkedin.com/in/noorullah11  
-Portfolio: 
+Phone  
++92 348 9024815
 
----
+Email  
+noorullah178632@gmail.com
+
+Portfolio  

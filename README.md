@@ -3,7 +3,7 @@
 ## Flutter Developer | Full Stack Flutter Developer | Computer Science Student
 
 ---
-![Noor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noorullah178632&theme=github-compact)
+
 <div align="center">
 
 ![Noor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noorullah178632&theme=github-compact)

@@ -3,7 +3,7 @@
 ## Flutter Developer | Full Stack Flutter Developer | Computer Science Student
 
 ---
-
+[![Noor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noorullah178632&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Professional Summary
 
 Flutter Developer with hands-on experience in building cross-platform mobile applications using Flutter and Dart. Skilled in Firebase integration, REST APIs, and modern state management solutions (Provider, Riverpod). Focused on developing clean, scalable, high-performance, and user-centric applications.

@@ -4,6 +4,7 @@
 
 ---
 ![Noor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noorullah178632&theme=github-compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Noorullah178632&theme=github-dark-green)
 ## Professional Summary
 
 Flutter Developer with hands-on experience in building cross-platform mobile applications using Flutter and Dart. Skilled in Firebase integration, REST APIs, and modern state management solutions (Provider, Riverpod). Focused on developing clean, scalable, high-performance, and user-centric applications.
